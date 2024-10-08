@@ -1,2 +1,1 @@
-# privacyredirect-custom
-customized privacyredirect extension with redirects to personalized sites 
+This is a custom version of [Privacy Redirect](https://github.com/SimonBrazell/privacy-redirect) Firefox extension, which redirects you from YouTube to an Invidious instance and from Reddit to Old Reddit.
